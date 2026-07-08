@@ -1,15 +1,26 @@
 [
   {
     "id": "iliad",
-    "title": "Iliad",
-    "author": "Homer",
+    "title": {
+      "en": "Iliad",
+      "ko": "일리아드"
+    },
+    "author": {
+      "en": "Homer",
+      "ko": "호메로스"
+    },
     "year": -750,
     "yearNote": "c. 750 BC",
-    "country": "Greece",
-    "language": "Ancient Greek",
-    "form": "Epic poem",
+    "country": {
+      "en": "Greece",
+      "ko": "그리스"
+    },
+    "language": {
+      "en": "Ancient Greek",
+      "ko": "고대 그리스어"
+    },
     "isbn": "",
-    "read": true,
+    "read": false,
     "reading": false,
     "synopsis": {
       "en": "The wrath of Achilles in the final year of the Trojan War — the foundational epic of the Western canon.",
@@ -19,15 +30,13 @@
   {
     "id": "divine-comedy",
     "title": "The Divine Comedy",
-    "originalTitle": "La Divina Commedia",
     "author": "Dante Alighieri",
     "year": 1320,
     "yearNote": "c. 1308–1320",
     "country": "Italy",
     "language": "Italian",
-    "form": "Epic poem",
     "isbn": "",
-    "read": true,
+    "read": false,
     "reading": false,
     "synopsis": {
       "en": "A journey through Hell, Purgatory, and Paradise, guided by Virgil and Beatrice.",
@@ -37,13 +46,11 @@
   {
     "id": "crime-and-punishment",
     "title": "Crime and Punishment",
-    "originalTitle": "Преступление и наказание",
     "author": "Fyodor Dostoevsky",
     "year": 1866,
     "yearNote": "",
     "country": "Russia",
     "language": "Russian",
-    "form": "Novel",
     "isbn": "",
     "read": false,
     "reading": true,
@@ -55,13 +62,11 @@
   {
     "id": "ulysses",
     "title": "Ulysses",
-    "originalTitle": "",
     "author": "James Joyce",
     "year": 1922,
     "yearNote": "",
     "country": "Ireland",
     "language": "English",
-    "form": "Novel",
     "isbn": "",
     "read": false,
     "reading": false,
