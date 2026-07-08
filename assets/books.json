@@ -1,0 +1,73 @@
+[
+  {
+    "id": "iliad",
+    "title": "Iliad",
+    "author": "Homer",
+    "year": -750,
+    "yearNote": "c. 750 BC",
+    "country": "Greece",
+    "language": "Ancient Greek",
+    "form": "Epic poem",
+    "isbn": "",
+    "read": true,
+    "reading": false,
+    "synopsis": {
+      "en": "The wrath of Achilles in the final year of the Trojan War — the foundational epic of the Western canon.",
+      "ko": "트로이 전쟁 마지막 해, 아킬레우스의 분노를 노래한 서양 문학의 원류."
+    }
+  },
+  {
+    "id": "divine-comedy",
+    "title": "The Divine Comedy",
+    "originalTitle": "La Divina Commedia",
+    "author": "Dante Alighieri",
+    "year": 1320,
+    "yearNote": "c. 1308–1320",
+    "country": "Italy",
+    "language": "Italian",
+    "form": "Epic poem",
+    "isbn": "",
+    "read": true,
+    "reading": false,
+    "synopsis": {
+      "en": "A journey through Hell, Purgatory, and Paradise, guided by Virgil and Beatrice.",
+      "ko": "베르길리우스와 베아트리체의 안내로 지옥·연옥·천국을 지나는 여정."
+    }
+  },
+  {
+    "id": "crime-and-punishment",
+    "title": "Crime and Punishment",
+    "originalTitle": "Преступление и наказание",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "yearNote": "",
+    "country": "Russia",
+    "language": "Russian",
+    "form": "Novel",
+    "isbn": "",
+    "read": false,
+    "reading": true,
+    "synopsis": {
+      "en": "A poor former student murders a pawnbroker to test a theory about himself, then unravels.",
+      "ko": "가난한 전직 학생이 자신에 대한 이론을 시험하려 전당포 노파를 살해한 뒤 무너져 간다."
+    }
+  },
+  {
+    "id": "ulysses",
+    "title": "Ulysses",
+    "originalTitle": "",
+    "author": "James Joyce",
+    "year": 1922,
+    "yearNote": "",
+    "country": "Ireland",
+    "language": "English",
+    "form": "Novel",
+    "isbn": "",
+    "read": false,
+    "reading": false,
+    "synopsis": {
+      "en": "One ordinary Dublin day, rendered in every style the language allows.",
+      "ko": "더블린의 평범한 하루를, 언어가 허락하는 모든 문체로 그려낸 작품."
+    }
+  }
+]
